@@ -10,3 +10,5 @@ statsmodels
 warnings
 xgboost
 yellowbrick
+scikit-learn
+streamlit
